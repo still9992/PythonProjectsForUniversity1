@@ -4,4 +4,4 @@ from math import cos, radians
 for i in range(360):
 		print(cos(radians(i)))
 
-print("Hello, Visual sStudio")
+print("Hello, Visual Studio")

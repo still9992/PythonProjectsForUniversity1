@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>90fea17c-8cbf-441b-abd1-69de72597bfd</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>task1234.py</StartupFile>
+    <StartupFile>Theory.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,12 +21,17 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="module_1_3.py" />
     <Compile Include="main.py" />
+    <Compile Include="module_1_5.py" />
+    <Compile Include="module_1_4.py" />
+    <Compile Include="module_1_6.py" />
     <Compile Include="PythonProjectsForUniversity.py" />
     <Compile Include="task1234.py" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="datas.py" />
+    <Content Include="Theory.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
