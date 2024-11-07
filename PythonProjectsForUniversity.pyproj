@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>90fea17c-8cbf-441b-abd1-69de72597bfd</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Theory.py</StartupFile>
+    <StartupFile>module_1_6.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
