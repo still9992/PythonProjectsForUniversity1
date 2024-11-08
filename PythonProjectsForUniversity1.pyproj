@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{f2595f46-088b-45ef-967c-e7aafab55fc3}</ProjectGuid>
     <ProjectHome />
-    <StartupFile>Theory_Module2.py</StartupFile>
+    <StartupFile>module_2_4.py</StartupFile>
     <SearchPath />
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
@@ -23,6 +23,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="main.py" />
+    <Compile Include="module_2_4.py" />
+    <Compile Include="module_2_3.py" />
+    <Compile Include="module_2_2.py" />
     <Compile Include="Theory_Module2.py" />
     <Compile Include="Theory.py" />
   </ItemGroup>
